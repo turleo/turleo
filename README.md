@@ -1,11 +1,11 @@
-<table>
+<table border="0">
   <tr>
+    <td>
+      <img src="./me.webp" style="width: 100px; height: 100px;">
+    </td>
     <td>
       <h1>Omg hiii!!!</h1>
       I'm Valya :3
-    </td>
-    <td>
-      <img src="./me.webp" style="width: 100px; height: 100px;">
     </td>
   </tr>
 </table>
