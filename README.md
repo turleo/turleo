@@ -1,10 +1,15 @@
-<div style="display: flex; gap: 16px;">
-  <div style="width: 100%;">
-    <h1>Omg hiii!!!</h1>
-    I'm Valya :3
-  </div>
-  <img src="./me.webp" style="width: 100px; height: 100px;">
-</div>
+<table>
+  <tr>
+    <td>
+      <h1>Omg hiii!!!</h1>
+      I'm Valya :3
+    </td>
+    <td>
+      <img src="./me.webp" style="width: 100px; height: 100px;">
+    </td>
+  </tr>
+</table>
+
 
 📝 I study Applied informatics at computer design at Far Eastern Federal University 
 
