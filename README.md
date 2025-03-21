@@ -1,9 +1,3 @@
-<style>
-  td, th {
-    border: none!important;
-  }
-</style>
-
 <table>
   <tr>
     <td>
