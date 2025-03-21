@@ -1,4 +1,4 @@
-<table border="0">
+<table style="border: none;">
   <tr>
     <td>
       <img src="./me.webp" style="width: 100px; height: 100px;">
