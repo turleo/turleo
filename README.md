@@ -1,4 +1,10 @@
-<table style="border: none;">
+<style>
+  td, th {
+    border: none!important;
+  }
+</style>
+
+<table>
   <tr>
     <td>
       <img src="./me.webp" style="width: 100px; height: 100px;">
